@@ -1,5 +1,5 @@
-# NEW PROJECT: Desperado!
-Here is a project I call desperado. A child moral grooming website for an organisation meant to tame young kids (4-12years) who are though by society to be naturally misbehaved.
+# NEW PROJECT: DESPERADO!
+Here is a project I call Desperado. A child moral grooming website for an organisation meant to tame young kids (4-12years) who are though by society to be naturally misbehaved.
 
 Despeardo is the online representation for the parent organnisation Despeardo Int'l. They use clear,refined and innovative methods that are unique to groom and train these kids.
 
